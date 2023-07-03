@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="" src="https://raw.githubusercontent.com/bernardocostaa/AutoCar/main/templete2.jpg" width="100%">
+  <img alt="" src="screencapture-bernardocostaa-github-io-Rocket-NFTs-2023-07-03-14_11_55.png" width="100%">
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ Link do Projeto: [Rocket-NFTs](https://bernardocostaa.github.io/Rocket-NFTs/)
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bernardocostaa/AutoCar/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bernardocostaa/Rocket-NFTs/blob/main/LICENSE) para mais detalhes.
 
 ---
 
