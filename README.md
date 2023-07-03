@@ -1,5 +1,5 @@
 <h1 align="center">
-  AutoCar
+  Rocket-NFTs
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://bernardocostaa.github.io/AutoCar/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://bernardocostaa.github.io/Rocket-NFTs/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -20,11 +20,10 @@ Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## 🚧 Projeto:
 
-Link do Projeto: [AutoCar](https://bernardocostaa.github.io/AutoCar/)
+Link do Projeto: [Rocket-NFTs](https://bernardocostaa.github.io/Rocket-NFTs/)
 
 
 ## :memo: Licença
