@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="" src="screencapture-bernardocostaa-github-io-Rocket-NFTs-2023-07-03-14_11_55.png" width="100%">
+  <img alt="" src="https://github.com/bernardocostaa/Rocket-NFTs/blob/main/templete.jpg" width="100%">
 </p>
 
 <p align="center">
